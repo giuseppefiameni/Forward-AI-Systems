@@ -1,2 +1,2 @@
-# Forward-AI-Systems
-Advanced systems engineering for next-generation AI model orchestration and optimized delivery.
+# Forward AI Systems
+Next-generation model orchestration and optimized delivery framework.
